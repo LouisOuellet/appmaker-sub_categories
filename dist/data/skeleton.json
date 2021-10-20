@@ -1,0 +1,54 @@
+{
+    "sub_categories": [
+        {
+            "id": 1,
+            "created": "2021-04-08 10:52:23",
+            "modified": "2021-04-08 10:52:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "all",
+            "status": "1",
+            "relationship": "subscriptions"
+        },
+        {
+            "id": 2,
+            "created": "2021-04-08 10:52:23",
+            "modified": "2021-04-08 10:52:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "comments",
+            "status": "1",
+            "relationship": "subscriptions"
+        },
+        {
+            "id": 3,
+            "created": "2021-04-08 10:52:23",
+            "modified": "2021-04-08 10:52:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "new",
+            "status": "1",
+            "relationship": "subscriptions"
+        },
+        {
+            "id": 4,
+            "created": "2021-04-08 10:52:23",
+            "modified": "2021-04-08 10:52:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "notes",
+            "status": "1",
+            "relationship": "subscriptions"
+        },
+        {
+            "id": 5,
+            "created": "2021-04-08 10:52:23",
+            "modified": "2021-04-08 10:52:23",
+            "owner": "1",
+            "updated_by": "1",
+            "name": "status",
+            "status": "1",
+            "relationship": "subscriptions"
+        }
+    ]
+}
